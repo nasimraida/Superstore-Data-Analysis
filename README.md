@@ -1,4 +1,4 @@
-# Superstore-Data-Analysis
+# Superstore Data Analysis
 
 ## Project Overview
 Project analyzing retail sales data a Superstore dataset using Python, MySQL, and Tableau. The object was to identify sales trends, analyze customer behavior, and evaluate business performance. 
