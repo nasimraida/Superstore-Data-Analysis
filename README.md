@@ -58,5 +58,7 @@ The data from this project is from Kaggle, **Superstore Datasett**.
 * The Consumer segment contributed the largest portion fo total sales.
 
 ## Dashboard Preview:
-
+Tableau Screenshot.png
+* Tableau Public Link:
+https://public.tableau.com/views/SuperstoreAnalysisDashboard_17833934117330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
