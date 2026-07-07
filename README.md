@@ -4,7 +4,7 @@
 Project analyzing retail sales data a Superstore dataset using Python, MySQL, and Tableau. The object was to identify sales trends, analyze customer behavior, and evaluate business performance. 
 
 ## Dataset
-The data from this project is from Kaggle, **Superstore Datasett**.
+The data from this project is from Kaggle, **Superstore Dataset**.
 **Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Tools Used
@@ -16,9 +16,9 @@ The data from this project is from Kaggle, **Superstore Datasett**.
 1. Data Cleaning [Python]
    * Imported and explored the data.
    * Checked for missing and duplicate values.
-   * Data was converted into a usable format,
+   * Data was converted into a usable format.
 3. Initial Business Analysis [SQL]
-   * Using MySQL to discovere key business insights, including:
+   * Using MySQL to discover key business insights, including:
       * Total Revenue & Total Profit
       * Profit Margin
       * Revenue by Category
@@ -55,7 +55,7 @@ The data from this project is from Kaggle, **Superstore Datasett**.
 * Revenue generally increased over the four year period.
 * There were noticeable spikes in Q4 and dips in Q1 consistently, suggesting seasonal fluctuations.
 * Technology generated the highest in the product categories.
-* The Consumer segment contributed the largest portion fo total sales.
+* The Consumer segment contributed the largest portion of total sales.
 
 ## Dashboard Preview:
 ![Dashboard](dashboard.png)
