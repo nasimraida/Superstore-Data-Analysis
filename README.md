@@ -1,9 +1,21 @@
 # Superstore-Data-Analysis
 
-##Project Overview
-Project analyzing Superstore data using Python, MySQL, and Tableau to discover and understand business insights.
+## Project Overview
+Project analyzing retail sales data a Superstore dataset using Python, MySQL, and Tableau. The object was to identify sales trends, analyze customer behavior, and evaluate business performance. 
 
-##Tools Used
+## Dataset
+The data from this project is from Kaggle, **Superstore Datasett**.
+**Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+## Tools Used
 - Python [Pandas, Matplotlib]
 - MySQL
-- Tableau 
+- Tableau
+
+## Project Workflow
+1. Data Cleaning [Python]
+2. Initial Business Analysis [SQL]
+3. Data Visualization [Python]
+4. Interactive Dashboard [Tableau]
+
+## Key Business Insights 
